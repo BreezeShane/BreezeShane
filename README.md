@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Semi-Supervised Learning, Unsupervised Learning, Weakly Supervised Learning and Reinforcement Learning
 [![Breeze Shane's github stats](https://github-readme-stats.vercel.app/api?username=BreezeShane&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreezeShane&theme=tokyonight&hide=CMake,Makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreezeShane&theme=tokyonight&hide=CMake,Makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
