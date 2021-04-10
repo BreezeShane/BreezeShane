@@ -2,7 +2,11 @@
 
 🌱 I’m currently learning Semi-Supervised Learning, Unsupervised Learning, Weakly Supervised Learning and Reinforcement Learning
 [![Breeze Shane's github stats](https://github-readme-stats.vercel.app/api?username=BreezeShane&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreezeShane&theme=tokyonight&hide=CMake,Makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreezeShane&theme=tokyonight&hide=CMake,Makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 🧐 About
+
+- 📫 How to reach me: breeze_shane@outlook.com
+- 🌱 Languages and Tools: [![](https://img.shields.io/badge/-C-007396?style=flat-square&logo=C&logoColor=ffffff)](https://reactjs.org/)[![](https://img.shields.io/badge/-C++-007396?style=flat-square&logo=C++&logoColor=ffffff)](https://reactjs.org/)[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)[![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=ffffff)](https://reactjs.org/)
 
 <!--
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
