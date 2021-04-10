@@ -10,9 +10,15 @@
 [![Breeze Shane's github stats](https://github-readme-stats.vercel.app/api?username=BreezeShane&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreezeShane&theme=tokyonight&hide=CMake,Makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-ar21.svg"></a></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nvidia/nvidia-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/intel/intel-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/google/google-ar21.svg"></code>
+
 
 <!--
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
