@@ -1,9 +1,10 @@
 ## Greetings! Here is Breeze Shane~ ![](https://visitor-badge.glitch.me/badge?page_id=BreezeShane.readme) [![](https://img.shields.io/badge/Manjaro%20Linux-33aadd?style=flat-square&logo=manjaro&logoColor=ffffff)](https://www.archlinux.org/)
 
 🌱 I’m currently learning Semi-Supervised Learning, Unsupervised Learning, Weakly Supervised Learning and Reinforcement Learning
-[![Breeze Shane's github stats](https://github-readme-stats.vercel.app/api?username=BreezeShane&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Breeze Shane's github stats](https://github-readme-stats.vercel.app/api?username=BreezeShane&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 **BreezeShane/BreezeShane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
