@@ -3,7 +3,7 @@
 🌱 I’m currently learning Semi-Supervised Learning, Unsupervised Learning, Weakly Supervised Learning
 ![](https://visitor-badge.glitch.me/badge?page_id=BreezeShane.readme)
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-C++-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
 <!--
 **BreezeShane/BreezeShane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
