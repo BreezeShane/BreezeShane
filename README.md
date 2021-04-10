@@ -6,7 +6,7 @@
 ## 🧐 About
 
 - 📫 How to reach me: breeze_shane@outlook.com
-- 🌱 Languages and Tools: [![](https://img.shields.io/badge/-C-007396?style=flat-square&logo=C&logoColor=ffffff)](https://reactjs.org/)[![](https://img.shields.io/badge/-C++-007396?style=flat-square&logo=C++&logoColor=ffffff)](https://reactjs.org/)[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)[![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=ffffff)](https://reactjs.org/)
+- 🌱 Languages and Tools: [![](https://img.shields.io/badge/-C-007396?style=flat-square&logo=C&logoColor=ffffff)](https://reactjs.org/) [![](https://img.shields.io/badge/-C++-007396?style=flat-square&logo=C++&logoColor=ffffff)](https://reactjs.org/) [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/) [![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=ffffff)](https://reactjs.org/) 
 
 <!--
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
