@@ -12,6 +12,8 @@
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-ar21.svg"></a></code>
+
 <!--
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 **BreezeShane/BreezeShane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
