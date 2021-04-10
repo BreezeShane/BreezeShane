@@ -1,4 +1,6 @@
-### Hi there 👋
+## Greetings! Here is Breeze Shane~ 
+
+🌱 I’m currently learning Semi-Supervised Learning, Unsupervised Learning, Weakly Supervised Learning
 
 <!--
 **BreezeShane/BreezeShane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
