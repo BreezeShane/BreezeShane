@@ -1,6 +1,6 @@
 ## Greetings! Here is Breeze Shane~ ![](https://visitor-badge.glitch.me/badge?page_id=BreezeShane.readme) [![](https://img.shields.io/badge/Manjaro%20Linux-33aadd?style=flat-square&logo=manjaro&logoColor=ffffff)](https://www.archlinux.org/)
 
-![](https://gitee.com/breezeshane/PicPease/raw/master/img/20210411162219.jpg)
+![MyLove](Images/1.jpg)
 
 🌱 I’m currently learning Semi-Supervised Learning, Unsupervised Learning, Weakly Supervised Learning and Reinforcement Learning
 
@@ -23,6 +23,9 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google/google-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></code>
 
+Here is my trophy...Errrr...?
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BreezeShane)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
