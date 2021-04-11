@@ -12,7 +12,7 @@
 [![Breeze Shane's github stats](https://github-readme-stats.vercel.app/api?username=BreezeShane&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreezeShane&theme=tokyonight&hide=CMake,Makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-🛠 Programming Tools:
+## 🛠 Programming Tools:
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
