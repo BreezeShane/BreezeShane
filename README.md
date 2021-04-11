@@ -25,7 +25,7 @@
 
 Here is my trophy...Errrr...?
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BreezeShane)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BreezeShane&theme=nord&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
