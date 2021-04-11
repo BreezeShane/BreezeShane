@@ -1,5 +1,7 @@
 ## Greetings! Here is Breeze Shane~ ![](https://visitor-badge.glitch.me/badge?page_id=BreezeShane.readme) [![](https://img.shields.io/badge/Manjaro%20Linux-33aadd?style=flat-square&logo=manjaro&logoColor=ffffff)](https://www.archlinux.org/)
 
+![](https://gitee.com/breezeshane/PicPease/raw/master/img/20210411162219.jpg)
+
 🌱 I’m currently learning Semi-Supervised Learning, Unsupervised Learning, Weakly Supervised Learning and Reinforcement Learning
 
 ## 🧐 About
