@@ -2,7 +2,7 @@
 
 ![MyLove](Images/1.jpg)
 
-🌱 I’m currently learning Semi-Supervised Learning, Unsupervised Learning, Weakly Supervised Learning and Reinforcement Learning
+🌱 I’m currently learning Semi-Supervised Learning, Unsupervised Learning and Reinforcement Learning!!!
 
 ## 🧐 About
 
