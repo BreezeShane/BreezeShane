@@ -6,7 +6,7 @@
 
 ## 🧐 About
 
-- 📫 How to reach me: breeze_shane@outlook.com
+- 📫 How to reach me: bug.breeze.shane@gmail.com
 - :earth_asia::Where is my blog: [Breeze Shane Blog](https://breezeshane.github.io)
 - 🌱 Using and Learning Languages: [![](https://img.shields.io/badge/-C-007396?style=flat-square&logo=C&logoColor=ffffff)](https://reactjs.org/) [![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=ffffff)]() [![](https://img.shields.io/badge/-R-007396?style=flat-square&logo=r&logoColor=ffffff)]()
 
