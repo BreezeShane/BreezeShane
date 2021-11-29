@@ -11,7 +11,7 @@
 - 🌱 Using and Learning Languages: [![](https://img.shields.io/badge/-C-007396?style=flat-square&logo=C&logoColor=ffffff)](https://reactjs.org/) [![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=ffffff)]() [![](https://img.shields.io/badge/-R-007396?style=flat-square&logo=r&logoColor=ffffff)]()
 
 [![Breeze Shane's github stats](https://github-readme-stats.vercel.app/api?username=BreezeShane&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreezeShane&theme=tokyonight&hide=CMake,Makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreezeShane&theme=tokyonight&hide=&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 Programming Tools:
 
