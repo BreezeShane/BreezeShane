@@ -42,6 +42,7 @@ Smooch
 - 🧰 Using IDEs: [![](https://img.shields.io/badge/-CLion-007396?style=flat-square&logo=CLion&logoColor=ffffff)](https://reactjs.org/) [![](https://img.shields.io/badge/-PyCharm-007396?style=flat-square&logo=PyCharm&logoColor=ffffff)](https://reactjs.org/) [![](https://img.shields.io/badge/-VS%20Code-007396?style=flat-square&logo=Visual%20Studio%20Code&logoColor=ffffff)](https://reactjs.org/)
 
 <div align="center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=BreezeShane&hide_border=true&theme=blue-green" /><br >
   <a href="https://github.com/anuraghazra/github-readme-stats"><img width=50% src="https://github-readme-stats.vercel.app/api?username=BreezeShane&show_icons=true&theme=nord&include_all_commits&card_width=30"></img></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreezeShane&theme=tokyonight&hide=HTML,CMake,Makefile&layout=compact&include_all_commits"></img></a>
   <img src="https://activity-graph.herokuapp.com/graph?username=BreezeShane&theme=nord&custom_title=BreezeShane%20%E3%81%AE%20Activities" />
