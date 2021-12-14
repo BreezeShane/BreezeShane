@@ -1,4 +1,4 @@
-# Greetings! Here is Breeze Shane~ ![](https://visitor-badge.glitch.me/badge?page_id=BreezeShane.readme) [![](https://img.shields.io/badge/Arco%20Linux-33aadd?style=social&logo=archlinux&logoColor=ffffff?logoWidth=60)](https://www.archlinux.org/) [![](https://img.shields.io/badge/Awesome%20WM-33aadd?style=social&logo=awesomeWM&logoColor=ffffff?logoWidth=60)]() [![](https://img.shields.io/badge/KDE%20Plasma-33aadd?style=social&logo=KDE&logoColor=ffffff?logoWidth=60)]()
+## Greetings! Here is Breeze Shane~ ![](https://visitor-badge.glitch.me/badge?page_id=BreezeShane.readme) [![](https://img.shields.io/badge/Arco%20Linux-33aadd?style=social&logo=archlinux&logoColor=ffffff?logoWidth=60)](https://www.archlinux.org/) [![](https://img.shields.io/badge/Awesome%20WM-33aadd?style=social&logo=awesomeWM&logoColor=ffffff?logoWidth=60)]() [![](https://img.shields.io/badge/KDE%20Plasma-33aadd?style=social&logo=KDE&logoColor=ffffff?logoWidth=60)]()
 
 ![MyLove](Images/1.jpg)
 
