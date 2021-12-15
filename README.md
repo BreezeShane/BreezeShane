@@ -44,7 +44,7 @@ Smooch
 <div align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=BreezeShane&hide_border=true&theme=blue-green" /><br >
   <a href="https://github.com/anuraghazra/github-readme-stats"><img width=50% src="https://github-readme-stats.vercel.app/api?username=BreezeShane&show_icons=true&theme=nord&include_all_commits&card_width=30"></img></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreezeShane&theme=tokyonight&hide=HTML,CMake,Makefile&layout=compact&include_all_commits"></img></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreezeShane&theme=tokyonight&hide=HTML,CMake,Makefile,JavaScript&layout=compact&include_all_commits"></img></a>
   <img src="https://activity-graph.herokuapp.com/graph?username=BreezeShane&theme=nord&custom_title=BreezeShane%20%E3%81%AE%20Activities" />
 </div>
 
