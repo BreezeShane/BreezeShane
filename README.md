@@ -72,6 +72,11 @@ Smooch
 
 ***
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BreezeShane/BreezeShane/main/assets/github-contribution-grid-snake.svg" >
+</div>
+
+
 <!--
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 **BreezeShane/BreezeShane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
