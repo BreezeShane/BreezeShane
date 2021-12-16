@@ -72,9 +72,9 @@ Smooch
 
 ***
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/BreezeShane/BreezeShane/main/assets/github-contribution-grid-snake.svg" >
-</div>
+</div> -->
 
 
 <!--
