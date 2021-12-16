@@ -64,6 +64,11 @@ Smooch
   <img src="https://github-profile-trophy.vercel.app/?username=BreezeShane&theme=nord&no-bg=true&column=7"></img>
 </div>
 
+## How much time I spent on:
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ***
 
 <div align="center">
