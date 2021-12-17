@@ -68,7 +68,8 @@ Smooch
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python   2 hrs 18 mins   ██████████████████████▓░░   90.93 % 
+C        13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
 ```
 <!--END_SECTION:waka-->
 
