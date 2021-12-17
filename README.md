@@ -61,7 +61,7 @@ Smooch
 ## Here is my trophy...Errrr...?
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BreezeShane&theme=nord&no-bg=true&column=7"></img>
+  <img src="https://github-profile-trophy.vercel.app/?username=BreezeShane&theme=nord&no-bg=true&column=8"></img>
 </div>
 
 ## How much time I spent on:
