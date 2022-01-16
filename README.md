@@ -30,7 +30,7 @@ Smooch
 
 ![MyLove](Images/1.jpg)
 
-🌱 I’m currently learning Semi-Supervised Learning, Unsupervised Learning and Reinforcement Learning!!!
+<div align="center">🌱 <strong>I’m currently learning Unsupervised Learning and Reinforcement Learning !!!</strong></div>
 
 ![](http://antzuhl.cn:4000/get/@BreezeShane.readme)
 
