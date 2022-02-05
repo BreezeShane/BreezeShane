@@ -68,9 +68,8 @@ Smooch
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     6 hrs 18 mins   ██████████████████████░░░   87.62 % 
-JavaScript   50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Stylus       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Markdown     6 hrs 18 mins   ████████████████████████▓   98.47 % 
+JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 ```
 <!--END_SECTION:waka-->
 
