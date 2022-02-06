@@ -68,8 +68,7 @@ Smooch
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     6 hrs 18 mins   ████████████████████████▓   98.47 % 
-JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
