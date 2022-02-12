@@ -68,7 +68,9 @@ Smooch
 
 <!--START_SECTION:waka-->
 ```text
-
+C            58 mins         ██████████████████▓░░░░░░   74.71 % 
+ObjectiveC   17 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.07 % 
+CMake        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 <!--END_SECTION:waka-->
 
