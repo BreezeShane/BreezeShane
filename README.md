@@ -68,13 +68,12 @@ Smooch
 
 <!--START_SECTION:waka-->
 ```text
-Total: 3 hrs 3 mins
+Total: 1 hr 45 mins
 
-C                58 mins         ████████░░░░░░░░░░░░░░░░░   32.12 % 
-CMake            50 mins         ███████░░░░░░░░░░░░░░░░░░   27.52 % 
-C++              47 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.61 % 
-ObjectiveC       17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-CMakeLists.txt   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+CMake            48 mins         ███████████▓░░░░░░░░░░░░░   46.29 % 
+C++              47 mins         ███████████░░░░░░░░░░░░░░   44.56 % 
+CMakeLists.txt   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 <!--END_SECTION:waka-->
 
