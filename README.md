@@ -68,12 +68,7 @@ Smooch
 
 <!--START_SECTION:waka-->
 ```text
-Total: 1 hr 45 mins
-
-CMake            48 mins         ███████████▓░░░░░░░░░░░░░   46.29 % 
-C++              47 mins         ███████████░░░░░░░░░░░░░░   44.56 % 
-CMakeLists.txt   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
