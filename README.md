@@ -68,7 +68,9 @@ Smooch
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown     2 hrs 34 mins   ██████████████████████▒░░   89.06 % 
+Java         14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+JavaScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 ```
 <!--END_SECTION:waka-->
 
