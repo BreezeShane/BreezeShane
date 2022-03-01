@@ -67,11 +67,14 @@ Smooch
 ## How much time I spent on:
 
 <!--START_SECTION:waka-->
+
 ```text
-Markdown     2 hrs 48 mins   ██████████████████████▒░░   89.87 % 
-Java         14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-JavaScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Java             37 mins         ████████████▓░░░░░░░░░░░░   50.44 %
+Markdown         31 mins         ██████████▒░░░░░░░░░░░░░░   41.84 %
+GitIgnore file   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+IDEA_MODULE      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
+
 <!--END_SECTION:waka-->
 
 ***
