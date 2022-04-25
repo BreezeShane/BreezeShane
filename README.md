@@ -30,7 +30,7 @@ Smooch
 
 ![MyLove](Images/1.jpg)
 
-<div align="center">🌱 <strong>I’m currently learning Unsupervised Learning and Reinforcement Learning !!!</strong></div>
+<!-- <div align="center">🌱 <strong>I’m currently learning Unsupervised Learning and Reinforcement Learning !!!</strong></div> -->
 
 ![](http://antzuhl.cn:4000/get/@BreezeShane.readme)
 
@@ -52,13 +52,13 @@ Smooch
 <div align="center">
   <code><img height="50" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></a></code>
   <code><img height="50" width="10%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
-  <code><img height="50" width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-  <code><img height="50" width="10%" src="https://www.vectorlogo.zone/logos/nvidia/nvidia-ar21.svg"></code>
+<!--   <code><img height="50" width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code> -->
+<!--   <code><img height="50" width="10%" src="https://www.vectorlogo.zone/logos/nvidia/nvidia-ar21.svg"></code> -->
   <code><img height="50" src="https://www.vectorlogo.zone/logos/google/google-ar21.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></code>
 </div>
 
-## Here is my trophy...Errrr...?
+## Here is my trophy:
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BreezeShane&theme=nord&no-bg=true&column=8"></img>
