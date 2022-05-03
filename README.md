@@ -69,11 +69,11 @@ Smooch
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     11 hrs 7 mins   ██████████▒░░░░░░░░░░░░░░   40.92 %
-HTML         8 hrs 40 mins   ████████░░░░░░░░░░░░░░░░░   31.90 %
-Vue.js       3 hrs 50 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
-JavaScript   2 hrs 42 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
-Other        31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+HTML         8 hrs 40 mins   █████████░░░░░░░░░░░░░░░░   36.23 %
+Markdown     8 hrs 24 mins   ████████▓░░░░░░░░░░░░░░░░   35.14 %
+Vue.js       3 hrs 50 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
+JavaScript   2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
+Other        31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
 
 <!--END_SECTION:waka-->
