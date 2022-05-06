@@ -10,7 +10,7 @@
 <div align="center">
   <a><img src="https://img.shields.io/badge/Arco%20Linux-33aadd?style=social&logo=archlinux&logoColor=ffffff?logoWidth=60" href="https://www.archlinux.org/"></a>
   <a><img src="https://img.shields.io/badge/Awesome%20WM-33aadd?style=social&logo=awesomeWM&logoColor=ffffff?logoWidth=60"></a>
-  <a><img src="https://img.shields.io/badge/KDE%20Plasma-33aadd?style=social&logo=KDE&logoColor=ffffff?logoWidth=60"></a>
+<!--   <a><img src="https://img.shields.io/badge/KDE%20Plasma-33aadd?style=social&logo=KDE&logoColor=ffffff?logoWidth=60"></a> -->
 </div>
 <!-- 
 Fleur De Leah
@@ -30,7 +30,7 @@ Smooch
 
 ![MyLove](Images/1.jpg)
 
-<!-- <div align="center">🌱 <strong>I’m currently learning Unsupervised Learning and Reinforcement Learning !!!</strong></div> -->
+<div align="center">🌱 <strong>I’m currently learning the Algorithms of Generative Adversarial Networks.</strong></div>
 
 ![](http://antzuhl.cn:4000/get/@BreezeShane.readme)
 
