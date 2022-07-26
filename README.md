@@ -69,8 +69,7 @@ Smooch
 <!--START_SECTION:waka-->
 
 ```text
-TeX     30 mins         ███████████████████████▒░   93.78 %
-Other   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+TeX   30 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
