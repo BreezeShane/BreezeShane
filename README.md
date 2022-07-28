@@ -69,7 +69,8 @@ Smooch
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TeX          25 mins         ████████████████░░░░░░░░░   64.14 %
+Other        13 mins         ████████▓░░░░░░░░░░░░░░░░   35.24 %
 ```
 
 <!--END_SECTION:waka-->
