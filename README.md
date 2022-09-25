@@ -69,7 +69,9 @@ Smooch
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Markdown   7 mins          ████████████████████████░   95.88 %
+Bash       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
