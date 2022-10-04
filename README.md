@@ -69,11 +69,7 @@ Smooch
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   50 mins         ██████████████░░░░░░░░░░░   55.64 %
-Python     30 mins         ████████▒░░░░░░░░░░░░░░░░   33.62 %
-Bash       5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-HTML       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-SQL        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
