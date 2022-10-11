@@ -30,7 +30,7 @@ Smooch
 
 ![MyLove](Images/1.jpg)
 
-<div align="center">🌱 <strong>I’m currently learning the Algorithms of Generative Adversarial Networks.</strong></div>
+<div align="center">🌱 <strong>I’m confused about what to do and to learn for my future.</strong></div>
 
 ![](http://antzuhl.cn:4000/get/@BreezeShane.readme)
 
