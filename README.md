@@ -37,7 +37,7 @@ Smooch
 ## 🧐 About
 
 - 📫 How to reach me: bug.breeze.shane@gmail.com
-- :earth_asia: Where is my blog: [Breeze Shane Blog](https://breezeshane.github.io)
+- :earth_asia: Where is my blog: [https://blog.brz.ink/](https://blog.brz.ink/)
 - 🌱 Using and Learning Languages: [![](https://img.shields.io/badge/C-007396?style=flat-square&logo=C&logoColor=ffffff)]() [![](https://img.shields.io/badge/Python-007396?style=flat-square&logo=python&logoColor=ffffff)]() [![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=oracle&logoColor=ffffff)]() [![](https://img.shields.io/badge/Shell-007396?style=flat-square&logo=Shell&logoColor=ffffff)]() [![](https://img.shields.io/badge/Lua-007396?style=flat-square&logo=Lua&logoColor=ffffff)]()  
 - ⚒️ Using IDEs: [![](https://img.shields.io/badge/CLion-007396?style=flat-square&logo=CLion&logoColor=ffffff)](https://www.jetbrains.com/clion/) [![](https://img.shields.io/badge/PyCharm-007396?style=flat-square&logo=PyCharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/) [![](https://img.shields.io/badge/IntelliJ%20Idea-007396?style=flat-square&logo=intellijidea&logoColor=ffffff)](https://www.jetbrains.com/idea/) [![](https://img.shields.io/badge/-VS%20Code-007396?style=flat-square&logo=Visual%20Studio%20Code&logoColor=ffffff)](https://code.visualstudio.com/)
 - 🧰 Using Frameworks: [![](https://img.shields.io/badge/Django-007396?style=flat-square&logo=django&logoColor=ffffff)]()
