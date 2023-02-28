@@ -43,8 +43,14 @@ Smooch
 - 🧰 Using Frameworks: [![](https://img.shields.io/badge/Django-007396?style=flat-square&logo=django&logoColor=ffffff)]()
 - ⚙️ Using Engines: [![](https://img.shields.io/badge/Docker-007396?style=flat-square&logo=docker&logoColor=ffffff)]()
 - 🗃️ Using Databases: [![](https://img.shields.io/badge/MySQL-007396?style=flat-square&logo=mysql&logoColor=ffffff)]()
-- 🤔 Knowing a little: [![](https://img.shields.io/badge/Vue.js-007396?style=flat-square&logo=vuedotjs&logoColor=ffffff)]() [![](https://img.shields.io/badge/React-007396?style=flat-square&logo=react&logoColor=ffffff)]() [![](https://img.shields.io/badge/Apache%20Hadoop-007396?style=flat-square&logo=apachehadoop&logoColor=ffffff)]()
+- 🤔 Know a little: [![](https://img.shields.io/badge/Vue.js-007396?style=flat-square&logo=vuedotjs&logoColor=ffffff)]() [![](https://img.shields.io/badge/React-007396?style=flat-square&logo=react&logoColor=ffffff)]() [![](https://img.shields.io/badge/Apache%20Hadoop-007396?style=flat-square&logo=apachehadoop&logoColor=ffffff)]()
 <!-- [![]()]()-->
+
+<div align="center">
+  <h1>Current State</h1>
+  <p>Learning for Unified National Graduate Entrance Examination.</p>
+  <p>Learning Rust & React.</p>
+</div>
 
 <div align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=BreezeShane&hide_border=true&theme=blue-green" /><br >
