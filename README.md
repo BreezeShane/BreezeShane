@@ -8,7 +8,8 @@
 </div>
 
 <div align="center">
-  <a><img src="https://img.shields.io/badge/Arco%20Linux-33aadd?style=social&logo=archlinux&logoColor=ffffff?logoWidth=60" href="https://www.archlinux.org/"></a>
+  <a><img src="https://img.shields.io/badge/Arch%20Linux-33aadd?style=social&logo=archlinux&logoColor=ffffff?logoWidth=60" href="https://www.archlinux.org/"></a>
+  <a><img src="https://img.shields.io/badge/i3%20WM-33aadd?style=social&logo=i3&logoColor=ffffff?logoWidth=60"></a>
   <a><img src="https://img.shields.io/badge/Awesome%20WM-33aadd?style=social&logo=awesomeWM&logoColor=ffffff?logoWidth=60"></a>
 <!--   <a><img src="https://img.shields.io/badge/KDE%20Plasma-33aadd?style=social&logo=KDE&logoColor=ffffff?logoWidth=60"></a> -->
 </div>
@@ -30,29 +31,29 @@ Smooch
 
 ![MyLove](Images/1.jpg)
 
-<div align="center">🌱 <strong>I’m confused about what to do and to learn for my future.</strong></div>
+<!-- <div align="center">🌱 <strong>I’m confused about what to do and to learn for my future.</strong></div> -->
+<div align="center">🌱 <strong>I’m feeling stressed for my future life.</strong></div>
 
-![](http://antzuhl.cn:4000/get/@BreezeShane.readme)
+<!-- ![](http://antzuhl.cn:4000/get/@BreezeShane.readme) -->
 
 ## 🧐 About
 
 - 📫 How to reach me: breeze.shane@protonmail.com
-- 📋 Here to read my resumes:
-  - [Resume for Job](https://breezeshane.github.io/Resume/resume.pdf)
-  - [Resume for Research](https://breezeshane.github.io/Resume/resume_photo.pdf)
+- 📋 Here to read my resumes: [My Resume](https://breezeshane.github.io/Resume/resume.pdf)
 - :earth_asia: Where is my blog: [https://breezeshane.github.io/](https://breezeshane.github.io/)
-- 🌱 Using and Learning Languages: [![](https://img.shields.io/badge/C-007396?style=flat-square&logo=C&logoColor=ffffff)]() [![](https://img.shields.io/badge/Python-007396?style=flat-square&logo=python&logoColor=ffffff)]() [![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=oracle&logoColor=ffffff)]() [![](https://img.shields.io/badge/Shell-007396?style=flat-square&logo=Shell&logoColor=ffffff)]() [![](https://img.shields.io/badge/Lua-007396?style=flat-square&logo=Lua&logoColor=ffffff)]()  
-- ⚒️ Using IDEs: [![](https://img.shields.io/badge/CLion-007396?style=flat-square&logo=CLion&logoColor=ffffff)](https://www.jetbrains.com/clion/) [![](https://img.shields.io/badge/PyCharm-007396?style=flat-square&logo=PyCharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/) [![](https://img.shields.io/badge/IntelliJ%20Idea-007396?style=flat-square&logo=intellijidea&logoColor=ffffff)](https://www.jetbrains.com/idea/) [![](https://img.shields.io/badge/-VS%20Code-007396?style=flat-square&logo=Visual%20Studio%20Code&logoColor=ffffff)](https://code.visualstudio.com/)
-- 🧰 Using Frameworks: [![](https://img.shields.io/badge/PyTorch-007396?style=flat-square&logo=pytorch&logoColor=ffffff)]() [![](https://img.shields.io/badge/Django-007396?style=flat-square&logo=django&logoColor=ffffff)]()
-- ⚙️ Using Engines: [![](https://img.shields.io/badge/Docker-007396?style=flat-square&logo=docker&logoColor=ffffff)]()
-- 🗃️ Using Databases: [![](https://img.shields.io/badge/MySQL-007396?style=flat-square&logo=mysql&logoColor=ffffff)]()
-- 🤔 Know a little: [![](https://img.shields.io/badge/Vue.js-007396?style=flat-square&logo=vuedotjs&logoColor=ffffff)]() [![](https://img.shields.io/badge/React-007396?style=flat-square&logo=react&logoColor=ffffff)]() [![](https://img.shields.io/badge/Apache%20Hadoop-007396?style=flat-square&logo=apachehadoop&logoColor=ffffff)]()
+- 🌱 Using and Learning Languages: [![](https://img.shields.io/badge/Python-007396?style=flat-square&logo=python&logoColor=ffffff)]() [![](https://img.shields.io/badge/Rust-007396?style=flat-square&logo=rust&logoColor=ffffff)]() [![](https://img.shields.io/badge/LaTeX-007396?style=flat-square&logo=latex&logoColor=ffffff)]() [![](https://img.shields.io/badge/React-007396?style=flat-square&logo=react&logoColor=ffffff)]() [![](https://img.shields.io/badge/C-007396?style=flat-square&logo=C&logoColor=ffffff)]() [![](https://img.shields.io/badge/C++-007396?style=flat-square&logo=c%2B%2B&logoColor=ffffff)]()  
+- 🧰 Using Frameworks: [![](https://img.shields.io/badge/Django-007396?style=flat-square&logo=django&logoColor=ffffff)]() [![](https://img.shields.io/badge/PyTorch-007396?style=flat-square&logo=pytorch&logoColor=ffffff)]() [![](https://img.shields.io/badge/Actix-007396?style=flat-square&logo=actix&logoColor=ffffff)]() [![](https://img.shields.io/badge/Next.js-007396?style=flat-square&logo=nextdotjs&logoColor=ffffff)]()
+- ⚙️ Using Engines: [![](https://img.shields.io/badge/Docker-007396?style=flat-square&logo=docker&logoColor=ffffff)]() <!-- [![](https://img.shields.io/badge/Kubernetes-007396?style=flat-square&logo=kubernetes&logoColor=ffffff)]() -->
+- 🗃️ Using Databases: [![](https://img.shields.io/badge/MySQL-007396?style=flat-square&logo=mysql&logoColor=ffffff)]() [![](https://img.shields.io/badge/MongoDB-007396?style=flat-square&logo=mongodb&logoColor=ffffff)]()
+- 🤔 Know a bit: [![](https://img.shields.io/badge/Vue.js-007396?style=flat-square&logo=vuedotjs&logoColor=ffffff)]() [![](https://img.shields.io/badge/Shell-007396?style=flat-square&logo=Shell&logoColor=ffffff)]() [![](https://img.shields.io/badge/Lua-007396?style=flat-square&logo=Lua&logoColor=ffffff)]() [![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=oracle&logoColor=ffffff)]() [![](https://img.shields.io/badge/Apache%20Hadoop-007396?style=flat-square&logo=apachehadoop&logoColor=ffffff)]()
+<!-- - ⚒️ Using IDEs: [![](https://img.shields.io/badge/CLion-007396?style=flat-square&logo=CLion&logoColor=ffffff)](https://www.jetbrains.com/clion/) [![](https://img.shields.io/badge/PyCharm-007396?style=flat-square&logo=PyCharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/) [![](https://img.shields.io/badge/IntelliJ%20Idea-007396?style=flat-square&logo=intellijidea&logoColor=ffffff)](https://www.jetbrains.com/idea/) [![](https://img.shields.io/badge/-VS%20Code-007396?style=flat-square&logo=Visual%20Studio%20Code&logoColor=ffffff)](https://code.visualstudio.com/) -->
 <!-- [![]()]()-->
 
 <div align="center">
   <h1>Current State</h1>
-  <p>Learning for Unified National Graduate Entrance Examination.</p>
   <p>Learning Rust & React.</p>
+  <p>Doing the Graduation Project.</p>
+  <p>Preparing for Unified National Graduate Entrance Examination AGAIN.</p>
 </div>
 
 <div align="center">
@@ -62,15 +63,15 @@ Smooch
   <img src="https://activity-graph.herokuapp.com/graph?username=BreezeShane&theme=nord&custom_title=BreezeShane%20%E3%81%AE%20Activities" />
 </div>
 
-## 🛠 Programming Tools:
-<div align="center">
+<!-- ## 🛠 Programming Tools: -->
+<!-- <div align="center">
   <code><img height="50" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></a></code>
   <code><img height="50" width="10%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
 <!--   <code><img height="50" width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code> -->
 <!--   <code><img height="50" width="10%" src="https://www.vectorlogo.zone/logos/nvidia/nvidia-ar21.svg"></code> -->
   <code><img height="50" src="https://www.vectorlogo.zone/logos/google/google-ar21.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></code>
-</div>
+</div> -->
 
 ## Here is my trophy:
 
