@@ -59,7 +59,7 @@ Smooch
 <div align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=BreezeShane&hide_border=true&theme=tokyonight-duo" /><br >
   <img width=50% src="https://github-readme-stats.vercel.app/api?username=BreezeShane&show_icons=true&theme=default&include_all_commits" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreezeShane&theme=default&hide=HTML,CMake,Makefile,JavaScript&layout=compact&include_all_commits"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreezeShane&theme=default&hide=HTML,CMake,Makefile,JavaScript,Batchfile&layout=compact&include_all_commits"></img>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BreezeShane&theme=minimal&custom_title=BreezeShane%20%E3%81%AE%20Activities" />
 </div>
 
