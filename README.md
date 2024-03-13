@@ -2,10 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%2338C2FF&size=25&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Greetings!;Here+is+Breeze+Shane~"></img>
 </div>
 
-<div align="center">
-    <a><img src="https://visitor-badge.glitch.me/badge?page_id=BreezeShane.readme"></img></a>
+<!-- <div align="center"> -->
+<!-- <a><img src="https://visitor-badge.glitch.me/badge?page_id=BreezeShane.readme"></img></a> -->
 <!--     <img src="https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&logo=github&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DBreezeShane" ></img> -->
-</div>
+<!-- </div> -->
 
 <div align="center">
   <a><img src="https://img.shields.io/badge/Arch%20Linux-33aadd?style=social&logo=archlinux&logoColor=ffffff?logoWidth=60" href="https://www.archlinux.org/"></a>
@@ -76,7 +76,7 @@ Smooch
 ## Here is my trophy:
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BreezeShane&theme=nord&no-bg=true&column=8"></img>
+  <img src="https://github-profile-trophy.vercel.app/?username=BreezeShane&theme=nord&no-bg=true&column=10"></img>
 </div>
 
 ## How much time I spent on:
