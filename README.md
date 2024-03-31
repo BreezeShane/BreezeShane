@@ -82,6 +82,7 @@ Smooch
 ## How much time I spent on:
 
 <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ```text
 No activity tracked
