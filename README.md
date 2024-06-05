@@ -90,6 +90,8 @@ Smooch
 
 > 📦 815.0 kB Used in GitHub's Storage 
  > 
+> 🏆 230 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 19 Public Repositories 
@@ -123,20 +125,16 @@ Sunday                   225 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 17 mins        ████████████████░░░░░░░░░   63.34 % 
-Python                   20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-Rust                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 2 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Proj                     2 hrs 2 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 2 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -152,7 +150,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/06/2024 18:37:39 UTC
+ Last Updated on 05/06/2024 18:37:21 UTC
 <!--END_SECTION:waka-->
 
 ***
