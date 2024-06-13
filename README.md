@@ -90,8 +90,6 @@ Smooch
 
 > 📦 815.0 kB Used in GitHub's Storage 
  > 
-> 🏆 230 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 19 Public Repositories 
@@ -150,7 +148,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2024 18:38:33 UTC
+ Last Updated on 13/06/2024 18:39:15 UTC
 <!--END_SECTION:waka-->
 
 ***
