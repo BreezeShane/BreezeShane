@@ -39,7 +39,6 @@ Smooch
 ## 🧐 About
 
 - 📫 How to reach me: breeze.shane@protonmail.com
-- 📋 Here to read my resumes: [My Resume](https://breezeshane.github.io/Resume/resume.pdf)
 - :earth_asia: Where is my blog: [https://breezeshane.github.io/](https://breezeshane.github.io/)
 - 🌱 Using and Learning Languages: [![](https://img.shields.io/badge/Python-007396?style=flat-square&logo=python&logoColor=ffffff)]() [![](https://img.shields.io/badge/Rust-007396?style=flat-square&logo=rust&logoColor=ffffff)]() [![](https://img.shields.io/badge/LaTeX-007396?style=flat-square&logo=latex&logoColor=ffffff)]() [![](https://img.shields.io/badge/React-007396?style=flat-square&logo=react&logoColor=ffffff)]() [![](https://img.shields.io/badge/C-007396?style=flat-square&logo=C&logoColor=ffffff)]() [![](https://img.shields.io/badge/C++-007396?style=flat-square&logo=c%2B%2B&logoColor=ffffff)]()  
 - 🧰 Using Frameworks: [![](https://img.shields.io/badge/Django-007396?style=flat-square&logo=django&logoColor=ffffff)]() [![](https://img.shields.io/badge/PyTorch-007396?style=flat-square&logo=pytorch&logoColor=ffffff)]() [![](https://img.shields.io/badge/Axum-007396?style=flat-square&logo=actix&logoColor=ffffff)]() 
