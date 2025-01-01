@@ -50,9 +50,7 @@ Smooch
 
 <div align="center">
   <h1>Current State</h1>
-  <p>Learning Rust & React.</p>
-  <p>Doing the Graduation Project.</p>
-  <p>Preparing for Unified National Graduate Entrance Examination AGAIN.</p>
+  <p>Planning to Learn Rust, Go and Kubernetes.</p>
 </div>
 
 <div align="center">
