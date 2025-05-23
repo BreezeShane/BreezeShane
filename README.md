@@ -49,7 +49,7 @@ Smooch
 <!-- [![]()]()-->
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-rho-rust.vercel.app?user=BreezeShane&theme=tokyonight-duo&mode=weekly&card_width=500" alt="GitHub Streak" /><br >
+  <img src="https://github-readme-streak-stats-ochre-one.vercel.app/?user=BreezeShane&theme=tokyonight-duo&mode=weekly&card_width=770" alt="GitHub Streak" /><br >
   <img width=41% src="https://github-readme-stats-rho-rust.vercel.app/api?username=BreezeShane&show_icons=true&theme=default&include_all_commits" />
   <img src="https://github-readme-stats-rho-rust.vercel.app/api/top-langs/?username=BreezeShane&theme=default&hide=HTML,CMake,Makefile,JavaScript,Batchfile&layout=compact&include_all_commits"></img>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BreezeShane&theme=minimal&custom_title=BreezeShane%20%E3%81%AE%20Activities" />
