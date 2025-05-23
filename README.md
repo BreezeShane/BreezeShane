@@ -39,7 +39,7 @@ Smooch
 ## 🧐 About
 
 - 📫 How to reach me: breeze.shane@protonmail.com
-- :earth_asia: Where is my blog: [https://breezeshane.github.io/](https://breezeshane.github.io/)
+- :earth_asia: Where is my blog: [https://blog.bzane.com/](https://blog.bzane.com/)
 - 🌱 Using Languages: [![](https://img.shields.io/badge/Python-007396?style=flat-square&logo=python&logoColor=ffffff)]() [![](https://img.shields.io/badge/LaTeX-007396?style=flat-square&logo=latex&logoColor=ffffff)]() [![](https://img.shields.io/badge/C-007396?style=flat-square&logo=C&logoColor=ffffff)]() [![](https://img.shields.io/badge/C++-007396?style=flat-square&logo=c%2B%2B&logoColor=ffffff)]()
 - 🧰 Using Frameworks: [![](https://img.shields.io/badge/Django-007396?style=flat-square&logo=django&logoColor=ffffff)]() [![](https://img.shields.io/badge/PyTorch-007396?style=flat-square&logo=pytorch&logoColor=ffffff)]() [![](https://img.shields.io/badge/Axum-007396?style=flat-square&logo=actix&logoColor=ffffff)]() 
 - ⚙️ Using Engines: [![](https://img.shields.io/badge/Docker-007396?style=flat-square&logo=docker&logoColor=ffffff)]() <!-- [![](https://img.shields.io/badge/Kubernetes-007396?style=flat-square&logo=kubernetes&logoColor=ffffff)]() -->
