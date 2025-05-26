@@ -92,13 +92,11 @@ Other                      23 hrs 42 mins  ▓░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-***
+![](./profile-3d-contrib/profile-season-animate.svg)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fleur+De+Leah&color=%2338C2FF&size=50&center=true&vCenter=true&multiline=true&width=850&height=90&lines=May+we+have+a+fine+day+full+of+breeze+and+sunshine!"></img>
 </div>
-
-***
 
 <!-- <div align="center">
   <img src="https://raw.githubusercontent.com/BreezeShane/BreezeShane/main/assets/github-contribution-grid-snake.svg" >
