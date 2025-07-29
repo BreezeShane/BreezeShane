@@ -76,7 +76,7 @@ Smooch
 <!--START_SECTION:waka-->
 
 ```python
-From: 15 December 2021 - To: 27 July 2025
+From: 15 December 2021 - To: 28 July 2025
 
 Total Time: 1,046 hrs 46 mins
 
