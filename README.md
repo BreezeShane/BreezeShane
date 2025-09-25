@@ -76,18 +76,18 @@ Smooch
 <!--START_SECTION:waka-->
 
 ```python
-From: 15 December 2021 - To: 23 September 2025
+From: 15 December 2021 - To: 24 September 2025
 
-Total Time: 1,067 hrs 21 mins
+Total Time: 1,067 hrs 31 mins
 
-Python                     356 hrs 56 mins ████████░░░░░░░░░░░░░░░░░   32.63 %
-Markdown                   284 hrs 27 mins ██████▓░░░░░░░░░░░░░░░░░░   26.01 %
-Rust                       105 hrs 30 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
+Python                     357 hrs 6 mins  ████████░░░░░░░░░░░░░░░░░   32.62 %
+Markdown                   284 hrs 27 mins ██████▒░░░░░░░░░░░░░░░░░░   25.98 %
+Rust                       105 hrs 30 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
 TypeScript                 68 hrs 3 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
 Vue.js                     66 hrs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
 HTML                       37 hrs 39 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
 JavaScript                 28 hrs 14 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Other                      26 hrs 27 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Other                      27 hrs 14 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 ```
 
 <!--END_SECTION:waka-->
