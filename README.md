@@ -76,17 +76,17 @@ Smooch
 <!--START_SECTION:waka-->
 
 ```python
-From: 15 December 2021 - To: 02 September 2026
+From: 15 December 2021 - To: 03 September 2026
 
-Total Time: 1,584 hrs 26 mins
+Total Time: 1,589 hrs 37 mins
 
-Python                     537 hrs 28 mins       ████████▒░░░░░░░░░░░░░░░░   32.85 %
-Markdown                   459 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   28.11 %
-Rust                       118 hrs 56 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-TypeScript                 71 hrs 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-Vue.js                     66 hrs 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-Lua                        52 hrs 13 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-Other                      51 hrs 32 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Python                     537 hrs 28 mins       ████████▒░░░░░░░░░░░░░░░░   32.75 %
+Markdown                   460 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   28.08 %
+Rust                       119 hrs 3 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+TypeScript                 71 hrs 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+Vue.js                     66 hrs 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Lua                        52 hrs 13 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Other                      51 hrs 41 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
 ```
 
 <!--END_SECTION:waka-->
