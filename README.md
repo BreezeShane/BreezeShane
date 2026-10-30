@@ -76,16 +76,15 @@ Smooch
 <!--START_SECTION:waka-->
 
 ```python
-From: 15 December 2021 - To: 28 October 2026
+From: 15 December 2021 - To: 29 October 2026
 
 Total Time: 1,707 hrs 10 mins
 
-Python                     538 hrs 55 mins       ███████▓░░░░░░░░░░░░░░░░░   30.40 %
-Markdown                   531 hrs 21 mins       ███████▒░░░░░░░░░░░░░░░░░   29.97 %
+Python                     538 hrs 55 mins       ███████▓░░░░░░░░░░░░░░░░░   30.39 %
+Markdown                   531 hrs 21 mins       ███████▒░░░░░░░░░░░░░░░░░   29.96 %
 Rust                       132 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
 TypeScript                 72 hrs 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-Vue.js                     66 hrs 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-Other                      65 hrs 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+Other                      66 hrs 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
 ```
 
 <!--END_SECTION:waka-->
